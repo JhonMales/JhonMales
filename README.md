@@ -1,4 +1,4 @@
-![Header](https://github.com/JhonMales/JhonMales/blob/main/Banner.png)
+![Header](https://github.com/JhonMales/JhonMales/blob/main/github-header-image.png)
 
 <h1 align="center">Hola 👋, Soy Jhon Elvis Males Vinachi</h1>
 
