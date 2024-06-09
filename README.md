@@ -49,7 +49,7 @@ En mi perfil encontrarás una variedad de proyectos donde he aplicado estas tecn
 
 <h1 align="center">Estadísticas de GitHub</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario&show_icons=true&locale=en&layout=compact" alt="lenguajes-más-usados"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&locale=en" alt="estadísticas-de-github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonMales&show_icons=true&locale=en&layout=compact" alt="lenguajes-más-usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonMales&show_icons=true&locale=en" alt="estadísticas-de-github"/>
 </p>
 
