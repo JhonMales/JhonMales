@@ -7,7 +7,7 @@
 - 🌐 Habilidades en frontend con JavaScript, React, HTML y CSS.
 - 📚 Comprometido con el aprendizaje continuo y las tecnologías emergentes.
 - 🚀 Siempre en busca de nuevos desafíos y oportunidades para crecer como desarrollador.
-- 📫 PUEDES CONTACTARME EN [contactarme](jhonmales777@gmail.com)
+- 📫 PUEDES CONTACTARME EN jhonmales777@gmail.com
 
 <h1 align="center">Mis proyectos</h1>
 
@@ -45,5 +45,11 @@ En mi perfil encontrarás una variedad de proyectos donde he aplicado estas tecn
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
+</p>
+
+<h1 align="center">Estadísticas de GitHub</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario&show_icons=true&locale=en&layout=compact" alt="lenguajes-más-usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&locale=en" alt="estadísticas-de-github"/>
 </p>
 
