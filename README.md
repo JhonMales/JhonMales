@@ -1,14 +1,14 @@
-![Header](https://github.com/JhonMales/JhonMales/blob/main/github-header-image.png)
+
 
 <h1 align="center">Hola 👋, Soy Jhon Elvis Males Vinachi</h1>
 
 - 👨‍💻 Estudiante de Ingeniería de Sistemas en la Universidad Distrital, último semestre.
-- 💡 Apasionado por el desarrollo backend con Java, Python y NodeJS.
-- 🗃️ Experiencia en manejo de bases de datos SQL y NoSQL (MongoDB).
-- 🌐 Habilidades en frontend con JavaScript, React, HTML y CSS.
+- 💡 Apasionado por el desarrollo backend con Java, Python, JavaScript, NestJS, NodeJS.
+- 🗃️ Experiencia en manejo de bases de datos SQL y NoSQL.
+- 🌐 Habilidades en frontend con React, Angular, HTML y CSS.
 - 📚 Comprometido con el aprendizaje continuo y las tecnologías emergentes.
 - 🚀 Siempre en busca de nuevos desafíos y oportunidades para crecer como desarrollador.
-- 📫 PUEDES CONTACTARME EN jhonmales777@gmail.com
+- 📫 PUEDES CONTACTARME EN jhonmalesv@gmail.com
 
 <h1 align="center">Mis proyectos</h1>
 
