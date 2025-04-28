@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, Soy Jhon Elvis Males Vinachi</h1>
 
-- 👨‍💻 Estudiante de Ingeniería de Sistemas en la Universidad Distrital, último semestre.
+- 👨‍💻 Ingeniero de Sistemas.
 - 💡 Apasionado por el desarrollo backend con Java, Python, JavaScript, NestJS, NodeJS.
 - 🗃️ Experiencia en manejo de bases de datos SQL y NoSQL.
 - 🌐 Habilidades en frontend con React, Angular, HTML y CSS.
